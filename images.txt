@@ -5,3 +5,4 @@ dzhuang/tinymediamanager:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 laoyutang/clash-and-dashboard
+gdy666/lucky
