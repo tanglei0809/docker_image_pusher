@@ -6,3 +6,4 @@ dzhuang/tinymediamanager:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 laoyutang/clash-and-dashboard
 gdy666/lucky
+biarms/mysql:5.7.30-linux-arm64v8
